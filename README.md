@@ -1,5 +1,6 @@
 # Reading_List
-This app has a simple UI , that helps you store the url of links you want to store for reading afterwards.
+ To run this app : type -> npm start (in the terminal and press enter)
+ This app has a simple UI , that helps you store the url of links you want to store for reading afterwards.
  How this app works:
  Copy the web url (link) of the page you want to store.
  Paste it in the link bar, click 'Add' button/ Press enter.
