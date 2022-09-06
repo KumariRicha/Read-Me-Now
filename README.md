@@ -1,4 +1,4 @@
-# Reading_List
+# Read Me Now!
  To run this app : type -> npm start (in the terminal and press enter)
  This app has a simple UI , that helps you store the url of links you want to store for reading afterwards.
  How this app works:
